@@ -19,7 +19,7 @@ The [Academic Abstract Editor](https://chat.openai.com/g/g-sxbrQLTDo-academic-ab
 The current version is **v0.1.4 (Nov 12)**. The version history can be found [here](https://github.com/TobiasRSpiller/Academic_Abstract_Editor/blob/main/Version_history.md).
 
 ## Journal Styles Directory
-For a comprehensive list of all supported journal styles, please refer to our [Journal Styles Document](https://github.com/TobiasRSpiller/Academic_Abstract_Editor/blob/main/Journals).
+For a comprehensive list of all supported journal styles, please refer to our [Journal Styles Document](https://github.com/TobiasRSpiller/Academic_Abstract_Editor/blob/main/Journals.md).
 
 ## Feedback and Custom Requests
 Your feedback is invaluable in improving the Academic Abstract Editor. Please use the forms below to send us your thoughts or help us by providing details of specific journal styles:
