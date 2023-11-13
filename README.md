@@ -16,7 +16,7 @@ The [Academic Abstract Editor](https://chat.openai.com/g/g-sxbrQLTDo-academic-ab
 4. Receive your tailored abstract!
 
 ## Journal Styles Directory
-For a comprehensive list of all supported journal styles, please refer to our [Journal Styles Document](https://github.com/TobiasRSpiller/Academic_Abstract_Private/blob/main/Journal%20Styles%20Document.md).
+For a comprehensive list of all supported journal styles, please refer to our [Journal Styles Document](https://github.com/TobiasRSpiller/Academic_Abstract_Editor/blob/main/Journals).
 
 
 ## Feedback and Custom Requests
