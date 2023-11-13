@@ -16,7 +16,7 @@ The [Academic Abstract Editor](https://chat.openai.com/g/g-sxbrQLTDo-academic-ab
 4. Receive your tailored abstract!
 
 ## Version 
-The current version is **v0.1.4 (Nov 11)**. The version history can be found [here].
+The current version is **v0.1.4 (Nov 11)**. The version history can be found [here](https://github.com/TobiasRSpiller/Academic_Abstract_Editor/blob/main/Version_history.md).
 
 ## Journal Styles Directory
 For a comprehensive list of all supported journal styles, please refer to our [Journal Styles Document](https://github.com/TobiasRSpiller/Academic_Abstract_Editor/blob/main/Journals).
