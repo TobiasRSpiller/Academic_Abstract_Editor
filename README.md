@@ -1,6 +1,6 @@
 # 🎓 Academic Abstract Edior GPT
 
-The [Academic Abstract Editor](https://chat.openai.com/g/g-sxbrQLTDo-academic-abstract-editor). is an innovative tool designed to assist academics in creating and resytling compelling abstracts for their manuscripts. This AI-powered tool is adept at conforming to various publisher and journal style guidelines, ensuring that your abstract fits perfectly with the required format and word count. Whether you're crafting a new abstract, refining an existing one, or adapting it to specific style guidelines, this tool is here to streamline the process.
+The [Academic Abstract Editor](https://chat.openai.com/g/g-sxbrQLTDo-academic-abstract-editor) is an innovative tool designed to assist academics in creating and resytling compelling abstracts for their manuscripts. This AI-powered tool is adept at conforming to various publisher and journal style guidelines, ensuring that your abstract fits perfectly with the required format and word count. Whether you're crafting a new abstract, refining an existing one, or adapting it to specific style guidelines, this tool is here to streamline the process.
 
 🌟 To stay updated, consider following: [@TRSpiller](https://x.com/TRSpiller) 
 
